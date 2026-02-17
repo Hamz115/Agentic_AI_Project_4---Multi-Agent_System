@@ -80,6 +80,7 @@ source .venv/bin/activate  # Linux/Mac
 
 # Install dependencies
 pip install -r requirements.txt
+pip install smolagents
 ```
 
 ### Configuration

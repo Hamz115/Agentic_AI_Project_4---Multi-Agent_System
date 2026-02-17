@@ -1,5 +1,8 @@
 # Munder Difflin Paper Company — Multi-Agent System
 
+**Course:** Multi-Agent Systems
+**Submission:** February 17, 2026
+
 A multi-agent AI system that automates inventory management, quote generation, and order fulfillment for a fictional paper manufacturing company. Built with the **smolagents** framework and **GPT-4o**.
 
 ---
